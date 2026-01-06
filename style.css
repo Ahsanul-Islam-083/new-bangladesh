@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* shared styles */
+.container {
+    max-width: 1350px;
+    margin: auto;
+}
+
+.my-btn {
+    border-radius: 8px;
+    padding: 8px 10px;
+    border: 1px solid #006A50;
+    font-weight: 500;
+    cursor: pointer;
+    color: #006A50;
+}
+
+.my-btn2 {
+    border-radius: 8px;
+    font-size: 18px;
+    padding: 8px 10px;
+    font-weight: 600;
+    border: none;
+    color: white;
+    background: rgba(0, 106, 80, 1);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    align-items: center;
+}
+
+.hero-parent {
+    display: flex;
+    justify-content: space-between;
+    background: rgba(198, 228, 214, 1);
+    align-items: center;
+    padding: 24px;
+    border-radius: 10px;
+    padding: 70px;
+    margin: 20px auto;
+    gap: 20px;
+}
+
+.hero-parent h2 {
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.hero-parent p {
+    font-weight: 700;
+    font-size: 56px;
+    color: rgba(14, 14, 14, 1);
+}
+
+.hero-parent button {
+    bac
+}
